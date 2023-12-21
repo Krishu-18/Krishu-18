@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Krishu-18
 - 👀 I’m interested in working with MNC's
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Java Projects
 - 📫 How to reach me -chauhankrishna966@gmail.com
 
 <!---
