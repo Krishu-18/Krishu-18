@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Krishu-18
+- 👋 Hi, I’m @Krishna Beldar
 - 👀 I’m interested in working with MNC's
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Java Projects
